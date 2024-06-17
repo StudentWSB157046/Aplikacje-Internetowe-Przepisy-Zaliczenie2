@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aplikacje-Internetowe-Przepisy-Zaliczenie2/static/css/main.aa5ff5ab.css",
+    "main.js": "/Aplikacje-Internetowe-Przepisy-Zaliczenie2/static/js/main.8656631c.js",
+    "static/js/453.0d2e1bd0.chunk.js": "/Aplikacje-Internetowe-Przepisy-Zaliczenie2/static/js/453.0d2e1bd0.chunk.js",
+    "index.html": "/Aplikacje-Internetowe-Przepisy-Zaliczenie2/index.html",
+    "main.aa5ff5ab.css.map": "/Aplikacje-Internetowe-Przepisy-Zaliczenie2/static/css/main.aa5ff5ab.css.map",
+    "main.8656631c.js.map": "/Aplikacje-Internetowe-Przepisy-Zaliczenie2/static/js/main.8656631c.js.map",
+    "453.0d2e1bd0.chunk.js.map": "/Aplikacje-Internetowe-Przepisy-Zaliczenie2/static/js/453.0d2e1bd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5ff5ab.css",
+    "static/js/main.8656631c.js"
+  ]
+}
